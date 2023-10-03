@@ -5,7 +5,7 @@ import {Outlet} from 'react-router-dom'
 
 // IMPORTING NECESSARY COMPONENTS
 import Navbar from '../components/navbar/Navbar'
-import Footer from '../components/footer/Footer'
+import Footer from '../components/Footer/Footer'
 import WalletSidePanel from '../components/walletSidePanel/WalletSidePanel'
 
 // IMPORT THE CSS FILE
