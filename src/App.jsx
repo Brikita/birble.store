@@ -3,7 +3,7 @@ import {createBrowserRouter, createRoutesFromElements, Route, RouterProvider} fr
 
 // IMPORTING THE NECESSARY PAGES AND LAYOUTS
 import AllCollections from './pages/AllCollections/AllCollections';
-import AllNftsPage from './pages/AllNFTS/AllNfts';
+import AllNfts from './pages/AllNFTS/AllNfts';
 import RewardsPage from './pages/RewardsPage'
 import Home from './pages/Home';
 import LaunchpadPage from './pages/launchpad/Launchpadpage/launchpad';
@@ -19,7 +19,7 @@ const appRouter = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<RootLayout/>}>
       <Route path='allCollections' element={<AllCollections/>}></Route>
-      <Route path='allNFTs' element={<AllNftsPage/>}></Route>
+      <Route path='allNFTs' element={<AllNfts />}></Route>
       <Route path='rewards' element={<RewardsPage/>}></Route>
       <Route path='/' element={<Home/>}></Route>
       
