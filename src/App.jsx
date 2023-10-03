@@ -3,7 +3,7 @@ import {createBrowserRouter, createRoutesFromElements, Route, RouterProvider} fr
 
 // IMPORTING THE NECESSARY PAGES AND LAYOUTS
 import AllCollections from './pages/AllCollections/AllCollections';
-import AllNfts from './pages/AllNFTS/AllNfts';
+import AllNfts from './pages/AllNFTS/AllNFTs'
 import RewardsPage from './pages/RewardsPage'
 import Home from './pages/Home';
 import LaunchpadPage from './pages/launchpad/Launchpadpage/launchpad';
