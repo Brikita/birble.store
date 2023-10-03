@@ -1,4 +1,4 @@
-import NftCard from './NftCard'
+import NftCard from './NFTCard'
 import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown'
 import './NFTCard.css'
 import FilterAltOutlinedIcon from '@mui/icons-material/FilterAltOutlined';
