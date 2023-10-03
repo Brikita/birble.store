@@ -1,6 +1,6 @@
 import Carousel from '../components/carousel/Carousel'
 import WhaleActivityContainer from '../components/whaleActivity/WhaleActivityContainer'
-import Table from '../components/Table/table'
+import Table from '../components/table/Table'
 import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown'
 import Card from '../components/CollectionCard'
 import './Home.css'
