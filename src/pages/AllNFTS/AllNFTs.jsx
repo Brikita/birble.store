@@ -1,6 +1,6 @@
 import NftCard from './NftCard'
 import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown'
-import './NftCard.css'
+import './NFTCard.css'
 import FilterAltOutlinedIcon from '@mui/icons-material/FilterAltOutlined';
 import { Icon } from "@iconify/react";
 import SearchIcon from "@mui/icons-material/Search";

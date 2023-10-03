@@ -1,5 +1,5 @@
 import VerifiedIcon from '@mui/icons-material/Verified'
-import './NftCard.css'
+import './NFTCard.css'
 import FavoriteBorderOutlinedIcon from '@mui/icons-material/FavoriteBorderOutlined';
 import Details from '../AllCollections/collections';
 
