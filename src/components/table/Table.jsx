@@ -1,5 +1,5 @@
 import React from "react";
-import TableContainer from "./Tablecontainer";
+import Tablecontainer from "./Tablecontainer";
 import { Icon } from "@iconify/react";
 
 
@@ -37,7 +37,7 @@ const Table = () => {
         <div></div>
       </div>
       <div>
-        <TableContainer />
+        <Tablecontainer />
       </div>
     </div>
   );
